@@ -1,0 +1,26 @@
+{
+  "name": "finly",
+  "description": "HTML Template",
+  "main": "index.html",
+  "authors": [
+    "purwa"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "homepage": "https://github.com/purwantowebdev/finly",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap4": "bootstrap#4.1.3",
+    "popper.js": "^1.14.4"
+  }
+}

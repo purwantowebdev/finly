@@ -1,0 +1,13 @@
+body {
+  font-size: 15px;
+  font-weight: 300;
+  border: 2px;
+  color: red;
+  margin-top: 20;
+  font-family: sans-serif;
+  background-color: #2a2a2a; }
+
+h1 {
+  color: yellow; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsZ0JBQWU7RUFDZixpQkFBZ0I7RUFDaEIsWUFBVztFQUNYLFdBQVc7RUFDWCxlQUFjO0VBQ2Qsd0JBQXVCO0VBQ3ZCLDBCQUF5QixFQUMxQjs7QUFFRDtFQUNFLGNBQVksRUFDYiIsImZpbGUiOiJzdHlsZXMuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keXtcclxuICBmb250LXNpemU6IDE1cHg7XHJcbiAgZm9udC13ZWlnaHQ6IDMwMDtcclxuICBib3JkZXI6IDJweDtcclxuICBjb2xvciA6IHJlZDtcclxuICBtYXJnaW4tdG9wOiAyMDtcclxuICBmb250LWZhbWlseTogc2Fucy1zZXJpZjtcclxuICBiYWNrZ3JvdW5kLWNvbG9yOiAjMmEyYTJhO1xyXG59XHJcblxyXG5oMXtcclxuICBjb2xvcjp5ZWxsb3c7XHJcbn1cclxuIl19 */
